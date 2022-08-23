@@ -3,6 +3,6 @@ let app = new Vue({
     data: {
       text: "Hello world",
       // BONUS: immagine
-      image: "https://wl-brightside.cf.tsp.li/resize/728x/jpg/e54/e78/30a24451a8ba30d37a3dfa888c.jpg"
+      image: "https://i.gyazo.com/fbf2bf870403c11c9c77d9a093b8560a.png"
     }
   });
